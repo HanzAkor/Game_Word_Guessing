@@ -10,5 +10,17 @@ namespace Game.Tests {
       Game game = new Game("MAKERS");
       Assert.AreEqual("M_____", game.GetWordToGuess("MAKERS"));
     }
+
+    [Test]
+    public void Game_Counter_GetRemainingAttempts() {
+      Game game = new Game();
+      Assert.AreEqual(10, game.Counter(10));
+    }
+
+    [Test]
+    public void Game_GetRandomWordFromDictionary_ReturnsRandomWordFromDictionary() {
+      Game game = new Game();
+      Assert.AreEqual("MAKERS", game.GetRandomWordFromDictionary());
+    }
   }
 }
