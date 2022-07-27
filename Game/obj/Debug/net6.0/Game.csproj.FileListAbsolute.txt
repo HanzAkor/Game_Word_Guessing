@@ -1,0 +1,15 @@
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/bin/Debug/net6.0/Game
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/bin/Debug/net6.0/Game.deps.json
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/bin/Debug/net6.0/Game.runtimeconfig.json
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/bin/Debug/net6.0/Game.dll
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/bin/Debug/net6.0/Game.pdb
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/obj/Debug/net6.0/Game.csproj.AssemblyReference.cache
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/obj/Debug/net6.0/Game.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/obj/Debug/net6.0/Game.AssemblyInfoInputs.cache
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/obj/Debug/net6.0/Game.AssemblyInfo.cs
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/obj/Debug/net6.0/Game.csproj.CoreCompileInputs.cache
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/obj/Debug/net6.0/Game.dll
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/obj/Debug/net6.0/refint/Game.dll
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/obj/Debug/net6.0/Game.pdb
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/obj/Debug/net6.0/Game.genruntimeconfig.cache
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/obj/Debug/net6.0/ref/Game.dll
