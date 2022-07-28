@@ -31,5 +31,16 @@ namespace Game.Tests {
       string result = game._secretWord;
       Assert.AreEqual(word, result);
     }
+
+    // [Test]
+    // public void WordToGuess_ReturnsRandomWordFromWordChooser()
+    // {
+    //   WordChooser.WordChooser mockWordChooser = Substitute.For<WordChooser.WordChooser>();
+    //   mockWordChooser.GetRandomWordFromDictionary().Returns("DEVELOPER");
+
+    //   Game game = new Game(mockWordChooser);
+
+    //   Assert.AreEqual(game.GetWordToGuess(game._secretWord), "D________");
+    // }
   }
 }

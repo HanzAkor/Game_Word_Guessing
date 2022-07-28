@@ -27,19 +27,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/kylemichaeltarbuck/.nuget/packages/": {}
+    "/Users/olliefreeman/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/Game/Game.csproj",
+      "projectUniqueName": "/Users/olliefreeman/Tests/C#/pairing_hannah_kyle/Game_Word_Guessing/Game/Game.csproj",
       "projectName": "Game",
-      "projectPath": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/Game/Game.csproj",
-      "packagesPath": "/Users/kylemichaeltarbuck/.nuget/packages/",
-      "outputPath": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/Game/obj/",
+      "projectPath": "/Users/olliefreeman/Tests/C#/pairing_hannah_kyle/Game_Word_Guessing/Game/Game.csproj",
+      "packagesPath": "/Users/olliefreeman/.nuget/packages/",
+      "outputPath": "/Users/olliefreeman/Tests/C#/pairing_hannah_kyle/Game_Word_Guessing/Game/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/kylemichaeltarbuck/.nuget/NuGet/NuGet.Config"
+        "/Users/olliefreeman/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -51,8 +51,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/WordChooser/WordChooser.csproj": {
-              "projectPath": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/WordChooser/WordChooser.csproj"
+            "/Users/olliefreeman/Tests/C#/pairing_hannah_kyle/Game_Word_Guessing/WordChooser/WordChooser.csproj": {
+              "projectPath": "/Users/olliefreeman/Tests/C#/pairing_hannah_kyle/Game_Word_Guessing/WordChooser/WordChooser.csproj"
             }
           }
         }
