@@ -19,16 +19,16 @@ namespace Game.Tests {
     }
 
     [Test]
-    [TestCase(0, "MAKERS")]
-    [TestCase(1, "CANDIES")]
-    [TestCase(2, "DEVELOPER")]
-    [TestCase(3, "LONDON")]
-    public void Game_GetRandomWordFromDictionary_ReturnsRandomWordFromDictionary(int index, string word) {
-      Random fake_rand = Substitute.For<Random>();
-      fake_rand.Next(4).Returns(index);
-      Game game = new Game(fake_rand);
-      string result = game.GetRandomWordFromDictionary();
-      Console.WriteLine(result);
+    [TestCase("MAKERS")]
+    [TestCase("CANDIES")]
+    [TestCase("DEVELOPER")]
+    [TestCase("LONDON")]
+    public void Game_GetRandomWordFromDictionary_ReturnsRandomWordFromDictionary(string word) 
+    {
+      WordChooser.WordChooser fake_chooser = Substitute.For<WordChooser.WordChooser>();
+      fake_chooser.GetRandomWordFromDictionary().Returns(word);
+      Game game = new Game(fake_chooser);
+      string result = game._secretWord;
       Assert.AreEqual(word, result);
     }
   }

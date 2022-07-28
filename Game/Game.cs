@@ -1,4 +1,5 @@
 using System.Text;
+using WordChooser;
 
 namespace Game 
 {
@@ -6,27 +7,35 @@ namespace Game
   { 
     public string _secretWord;
     public int _attemptCounter;
-    public readonly string[] DICTIONARY = {"MAKERS", "CANDIES", "DEVELOPER", "LONDON"};
+    public WordChooser.WordChooser _wordChooser;
 
-    public Random rand;
-    public Game(string word = "Hello") {
-      _secretWord = word;
+    public Game(string givenWord) 
+    {
+      _secretWord = givenWord;
       _attemptCounter = 10;
-      this.rand = new Random();
+      _wordChooser = new WordChooser.WordChooser();
     }
-    public Game(Random rand, string word = "Hello") {
-      _secretWord = word;
+    public Game() 
+    {
+      _wordChooser = new WordChooser.WordChooser();
+      _secretWord = _wordChooser.GetRandomWordFromDictionary();
       _attemptCounter = 10;
-      this.rand = rand;
+    }
+
+    public Game(WordChooser.WordChooser chooser) 
+    {
+      _wordChooser = chooser;
+      _secretWord = _wordChooser.GetRandomWordFromDictionary();
+      _attemptCounter = 10;
     }
    
-    public string GetWordToGuess(string _secretWord) {
-
-      // string secretWord = "MAKERS";
+    public string GetWordToGuess(string _secretWord) 
+    {
 
       StringBuilder builder = new StringBuilder();
       
-      for (int counter = 0; counter < _secretWord.Length; counter++) {
+      for (int counter = 0; counter < _secretWord.Length; counter++) 
+      {
         char currentLetter = _secretWord[0];
         if (counter == 0) {
             builder.Append(currentLetter);
@@ -34,15 +43,10 @@ namespace Game
             builder.Append("_");
         }
       }
-    return builder.ToString();
+      return builder.ToString();
     }  
-  
     public int Counter(int _attemptCounter) {
       return _attemptCounter;
-    }
-  
-    public string GetRandomWordFromDictionary() {
-      return DICTIONARY[rand.Next(DICTIONARY.Length)];
-    }
+    } 
   }
 }

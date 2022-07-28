@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "Game/1.0.0": {
+        "dependencies": {
+          "WordChooser": "1.0.0"
+        },
         "runtime": {
           "Game.dll": {}
+        }
+      },
+      "WordChooser/1.0.0": {
+        "runtime": {
+          "WordChooser.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Game/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WordChooser/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

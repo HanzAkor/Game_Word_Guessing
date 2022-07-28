@@ -1,26 +1,45 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "WordChooser/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/WordChooser.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WordChooser.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "WordChooser/1.0.0": {
+      "type": "project",
+      "path": "../WordChooser/WordChooser.csproj",
+      "msbuildProject": "../WordChooser/WordChooser.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "WordChooser >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "/Users/hannahakor/.nuget/packages/": {}
+    "/Users/kylemichaeltarbuck/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/Game.csproj",
+      "projectUniqueName": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/Game/Game.csproj",
       "projectName": "Game",
-      "projectPath": "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/Game.csproj",
-      "packagesPath": "/Users/hannahakor/.nuget/packages/",
-      "outputPath": "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/obj/",
+      "projectPath": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/Game/Game.csproj",
+      "packagesPath": "/Users/kylemichaeltarbuck/.nuget/packages/",
+      "outputPath": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/Game/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/hannahakor/.nuget/NuGet/NuGet.Config"
+        "/Users/kylemichaeltarbuck/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -31,7 +50,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/WordChooser/WordChooser.csproj": {
+              "projectPath": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/WordChooser/WordChooser.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

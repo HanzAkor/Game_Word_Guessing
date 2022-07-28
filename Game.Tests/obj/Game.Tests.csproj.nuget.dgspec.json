@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game.Tests/Game.Tests.csproj": {}
+    "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/Game.Tests/Game.Tests.csproj": {}
   },
   "projects": {
-    "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game.Tests/Game.Tests.csproj": {
+    "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/Game.Tests/Game.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game.Tests/Game.Tests.csproj",
+        "projectUniqueName": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/Game.Tests/Game.Tests.csproj",
         "projectName": "Game.Tests",
-        "projectPath": "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game.Tests/Game.Tests.csproj",
-        "packagesPath": "/Users/hannahakor/.nuget/packages/",
-        "outputPath": "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game.Tests/obj/",
+        "projectPath": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/Game.Tests/Game.Tests.csproj",
+        "packagesPath": "/Users/kylemichaeltarbuck/.nuget/packages/",
+        "outputPath": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/Game.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/hannahakor/.nuget/NuGet/NuGet.Config"
+          "/Users/kylemichaeltarbuck/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -26,8 +26,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/Game.csproj": {
-                "projectPath": "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/Game.csproj"
+              "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/Game/Game.csproj": {
+                "projectPath": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/Game/Game.csproj"
+              },
+              "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/WordChooser/WordChooser.csproj": {
+                "projectPath": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/WordChooser/WordChooser.csproj"
               }
             }
           }
@@ -86,17 +89,73 @@
         }
       }
     },
-    "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/Game.csproj": {
+    "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/Game/Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/Game.csproj",
+        "projectUniqueName": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/Game/Game.csproj",
         "projectName": "Game",
-        "projectPath": "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/Game.csproj",
-        "packagesPath": "/Users/hannahakor/.nuget/packages/",
-        "outputPath": "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/obj/",
+        "projectPath": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/Game/Game.csproj",
+        "packagesPath": "/Users/kylemichaeltarbuck/.nuget/packages/",
+        "outputPath": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/Game/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/hannahakor/.nuget/NuGet/NuGet.Config"
+          "/Users/kylemichaeltarbuck/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/WordChooser/WordChooser.csproj": {
+                "projectPath": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/WordChooser/WordChooser.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/WordChooser/WordChooser.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/WordChooser/WordChooser.csproj",
+        "projectName": "WordChooser",
+        "projectPath": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/WordChooser/WordChooser.csproj",
+        "packagesPath": "/Users/kylemichaeltarbuck/.nuget/packages/",
+        "outputPath": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/WordChooser/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kylemichaeltarbuck/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

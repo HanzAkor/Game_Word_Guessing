@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Game\Game.csproj" />
+    <ProjectReference Include="..\WordChooser\WordChooser.csproj" />
   </ItemGroup>
 
 </Project>

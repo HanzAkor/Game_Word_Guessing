@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/hannahakor/.nuget/packages/": {}
+    "/Users/kylemichaeltarbuck/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/WordChooser.csproj",
+      "projectUniqueName": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/WordChooser/WordChooser.csproj",
       "projectName": "WordChooser",
-      "projectPath": "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/WordChooser.csproj",
-      "packagesPath": "/Users/hannahakor/.nuget/packages/",
-      "outputPath": "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/obj/",
+      "projectPath": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/WordChooser/WordChooser.csproj",
+      "packagesPath": "/Users/kylemichaeltarbuck/.nuget/packages/",
+      "outputPath": "/Users/kylemichaeltarbuck/Projects/Game_Word_Guessing/WordChooser/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/hannahakor/.nuget/NuGet/NuGet.Config"
+        "/Users/kylemichaeltarbuck/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
