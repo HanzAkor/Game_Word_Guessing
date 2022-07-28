@@ -1,0 +1,15 @@
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/bin/Debug/net6.0/WordChooser
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/bin/Debug/net6.0/WordChooser.deps.json
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/bin/Debug/net6.0/WordChooser.runtimeconfig.json
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/bin/Debug/net6.0/WordChooser.dll
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/bin/Debug/net6.0/WordChooser.pdb
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/obj/Debug/net6.0/WordChooser.csproj.AssemblyReference.cache
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/obj/Debug/net6.0/WordChooser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/obj/Debug/net6.0/WordChooser.AssemblyInfoInputs.cache
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/obj/Debug/net6.0/WordChooser.AssemblyInfo.cs
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/obj/Debug/net6.0/WordChooser.csproj.CoreCompileInputs.cache
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/obj/Debug/net6.0/WordChooser.dll
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/obj/Debug/net6.0/refint/WordChooser.dll
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/obj/Debug/net6.0/WordChooser.pdb
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/obj/Debug/net6.0/WordChooser.genruntimeconfig.cache
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/obj/Debug/net6.0/ref/WordChooser.dll

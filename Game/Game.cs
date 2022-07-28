@@ -4,12 +4,20 @@ namespace Game
 {
   public class Game 
   { 
-    private string _secretWord;
-    private int _attemptCounter = 10;
-
+    public string _secretWord;
+    public int _attemptCounter;
     public readonly string[] DICTIONARY = {"MAKERS", "CANDIES", "DEVELOPER", "LONDON"};
+
+    public Random rand;
     public Game(string word = "Hello") {
       _secretWord = word;
+      _attemptCounter = 10;
+      this.rand = new Random();
+    }
+    public Game(Random rand, string word = "Hello") {
+      _secretWord = word;
+      _attemptCounter = 10;
+      this.rand = rand;
     }
    
     public string GetWordToGuess(string _secretWord) {
@@ -34,7 +42,6 @@ namespace Game
     }
   
     public string GetRandomWordFromDictionary() {
-      Random rand = new Random();
       return DICTIONARY[rand.Next(DICTIONARY.Length)];
     }
   }

@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game\Game.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game.Tests", "Game.Tests\Game.Tests.csproj", "{AD69A7AD-306C-40DD-BDA3-2F36F7D22288}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordChooser", "WordChooser\WordChooser.csproj", "{015D1E72-28D8-46A4-992E-610AE172653F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordChooser.Tests", "WordChooser.Tests\WordChooser.Tests.csproj", "{9AF68CBA-3D1E-4F3F-B67B-91F8EF4AC8CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{AD69A7AD-306C-40DD-BDA3-2F36F7D22288}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD69A7AD-306C-40DD-BDA3-2F36F7D22288}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD69A7AD-306C-40DD-BDA3-2F36F7D22288}.Release|Any CPU.Build.0 = Release|Any CPU
+		{015D1E72-28D8-46A4-992E-610AE172653F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{015D1E72-28D8-46A4-992E-610AE172653F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{015D1E72-28D8-46A4-992E-610AE172653F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{015D1E72-28D8-46A4-992E-610AE172653F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AF68CBA-3D1E-4F3F-B67B-91F8EF4AC8CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AF68CBA-3D1E-4F3F-B67B-91F8EF4AC8CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AF68CBA-3D1E-4F3F-B67B-91F8EF4AC8CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AF68CBA-3D1E-4F3F-B67B-91F8EF4AC8CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
