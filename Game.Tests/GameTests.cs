@@ -32,6 +32,8 @@ namespace Game.Tests {
       Assert.AreEqual(word, result);
     }
 
+    // Part 2 Debugging
+    // -
     // [Test]
     // public void WordToGuess_ReturnsRandomWordFromWordChooser()
     // {

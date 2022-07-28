@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/olliefreeman/Tests/C#/pairing_hannah_kyle/Game_Word_Guessing/Game/Game.csproj": {}
+    "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/Game.csproj": {}
   },
   "projects": {
-    "/Users/olliefreeman/Tests/C#/pairing_hannah_kyle/Game_Word_Guessing/Game/Game.csproj": {
+    "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/Game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/olliefreeman/Tests/C#/pairing_hannah_kyle/Game_Word_Guessing/Game/Game.csproj",
+        "projectUniqueName": "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/Game.csproj",
         "projectName": "Game",
-        "projectPath": "/Users/olliefreeman/Tests/C#/pairing_hannah_kyle/Game_Word_Guessing/Game/Game.csproj",
-        "packagesPath": "/Users/olliefreeman/.nuget/packages/",
-        "outputPath": "/Users/olliefreeman/Tests/C#/pairing_hannah_kyle/Game_Word_Guessing/Game/obj/",
+        "projectPath": "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/Game.csproj",
+        "packagesPath": "/Users/hannahakor/.nuget/packages/",
+        "outputPath": "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/olliefreeman/.nuget/NuGet/NuGet.Config"
+          "/Users/hannahakor/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -26,8 +26,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/olliefreeman/Tests/C#/pairing_hannah_kyle/Game_Word_Guessing/WordChooser/WordChooser.csproj": {
-                "projectPath": "/Users/olliefreeman/Tests/C#/pairing_hannah_kyle/Game_Word_Guessing/WordChooser/WordChooser.csproj"
+              "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/WordChooser.csproj": {
+                "projectPath": "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/WordChooser.csproj"
               }
             }
           }
@@ -60,17 +60,17 @@
         }
       }
     },
-    "/Users/olliefreeman/Tests/C#/pairing_hannah_kyle/Game_Word_Guessing/WordChooser/WordChooser.csproj": {
+    "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/WordChooser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/olliefreeman/Tests/C#/pairing_hannah_kyle/Game_Word_Guessing/WordChooser/WordChooser.csproj",
+        "projectUniqueName": "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/WordChooser.csproj",
         "projectName": "WordChooser",
-        "projectPath": "/Users/olliefreeman/Tests/C#/pairing_hannah_kyle/Game_Word_Guessing/WordChooser/WordChooser.csproj",
-        "packagesPath": "/Users/olliefreeman/.nuget/packages/",
-        "outputPath": "/Users/olliefreeman/Tests/C#/pairing_hannah_kyle/Game_Word_Guessing/WordChooser/obj/",
+        "projectPath": "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/WordChooser.csproj",
+        "packagesPath": "/Users/hannahakor/.nuget/packages/",
+        "outputPath": "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/olliefreeman/.nuget/NuGet/NuGet.Config"
+          "/Users/hannahakor/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"

@@ -335,3 +335,8 @@
 /Users/olliefreeman/Tests/C#/pairing_hannah_kyle/Game_Word_Guessing/Game.Tests/obj/Debug/net6.0/Game.Tests.csproj.CopyComplete
 /Users/olliefreeman/Tests/C#/pairing_hannah_kyle/Game_Word_Guessing/Game.Tests/obj/Debug/net6.0/Game.Tests.genruntimeconfig.cache
 /Users/olliefreeman/Tests/C#/pairing_hannah_kyle/Game_Word_Guessing/Game.Tests/obj/Debug/net6.0/ref/Game.Tests.dll
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game.Tests/bin/Debug/net6.0/WordChooser.deps.json
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game.Tests/bin/Debug/net6.0/WordChooser.runtimeconfig.json
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game.Tests/bin/Debug/net6.0/WordChooser
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game.Tests/bin/Debug/net6.0/WordChooser.dll
+/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/Game.Tests/bin/Debug/net6.0/WordChooser.pdb

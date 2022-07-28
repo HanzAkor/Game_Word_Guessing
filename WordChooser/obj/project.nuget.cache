@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "onCjMXnjwvaQ29xke/eHid9yrw9uJc1tlgiEyFuLtaoF+i7RD/vnwLu4L+4FyUZTd8MjmdPYohxPeLzuLAEPWw==",
+  "dgSpecHash": "I2dSHCRXh85Z+fJToFIpWTkJA4j1eNtlj5Yrg7vRLlk9Zwpb/tv/scPO6nHE1voJFOVTPHGY/OQA6qMUCM/IRA==",
   "success": true,
-  "projectFilePath": "/Users/olliefreeman/Tests/C#/pairing_hannah_kyle/Game_Word_Guessing/WordChooser/WordChooser.csproj",
+  "projectFilePath": "/Users/hannahakor/Desktop/Codes/Projects/CSharp/WordGame/WordChooser/WordChooser.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
